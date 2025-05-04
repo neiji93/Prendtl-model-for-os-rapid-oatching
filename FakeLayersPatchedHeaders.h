@@ -12,6 +12,8 @@ class powersupplyon registersalgorithm
 {
 public:
 
-  fpgaoneadaptcachecpu()...
+  bool fpgaoneadaptcachecpu()...
+
+  bool fpgarnahncedonnegativevslues();
 
 }
